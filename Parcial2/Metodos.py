@@ -16,6 +16,8 @@ salario = 9000
 print("Empresa: GAMA CONSULTORES IA")
 print(calcular_salario(salario))
 print(obtenerAguinaldo(salario))
+print(calcular_salario(salario*12))
 print("Desarrollador Java Full Stack Intermedio Senior")
 print(calcular_salario(36000.00))
 print(obtenerAguinaldo(36000.00))
+print(calcular_salario(36000.00*12))
